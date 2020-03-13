@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <HTML dir='ltr' lang='id-ID'>
 <head><meta charset='utf-8'/>
-<title>Related Post</title>
+<title>Postingan Terkait</title>
 <style>*{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}
 body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Roboto","Segoe UI","Oxygen-Sans","Ubuntu","Cantarell","Helvetica Neue",sans-serif}
 body li,body ul{margin:0;float:left}
